@@ -1,2 +1,3 @@
 # Tic Tac Toe AI
- Tic Tac Toe AI using Reinforcement Learning
+
+Project under development
